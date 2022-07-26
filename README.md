@@ -25,4 +25,6 @@ Demo project
 
 https://user-images.githubusercontent.com/109297277/180605194-43c10264-fe06-45f1-86a9-8445592b0e6f.mp4
 
+File pdf
+
 [NgoVaHieu_1924801030101.pdf](https://github.com/NgoHieuEasy/Website-ecome-php-Core/files/9190350/NgoVaHieu_1924801030101.pdf)
